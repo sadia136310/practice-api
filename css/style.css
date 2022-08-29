@@ -1,0 +1,12 @@
+#comments-display {
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+
+.comment {
+    border: 2px solid skyblue;
+    padding: 10px;
+    border-radius: 10px;
+}
